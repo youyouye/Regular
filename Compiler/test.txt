@@ -1,0 +1,1 @@
+(?:<#makrup>a*)(e+(?<#attribute>e?))=(?:<$part>)e{2,3}?
